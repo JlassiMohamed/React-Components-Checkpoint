@@ -1,0 +1,18 @@
+.photo {
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.name {
+  color: #2d4722;
+  text-transform: uppercase;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.3em;
+}
+
+.address {
+  color: #7e6d6e;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
